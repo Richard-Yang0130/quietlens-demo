@@ -1,0 +1,894 @@
+{
+  "fetched_at": "2026-09-29T08:24:36.152Z",
+  "origin": {
+    "name": "上海 · 利西路102号",
+    "latitude": 31.22119676682668,
+    "longitude": 121.43663301057919
+  },
+  "places": [
+    {
+      "place_id": "bd-319581dfc6078be530870ac9",
+      "baidu_uid": "319581dfc6078be530870ac9",
+      "name": "BottleDream basecamp coffee",
+      "address": "利西路152号二楼",
+      "location": {
+        "latitude": 31.22104722356448,
+        "longitude": 121.43575913897908,
+        "coordinate_system": "BD-09"
+      },
+      "category": "美食;咖啡厅",
+      "overall_rating": 4.1,
+      "reference_price": 38,
+      "provider_comment_count": 7,
+      "opening_hours_text": "11:00-19:00",
+      "opening_assessment": "covers_visit",
+      "route": {
+        "status": "available",
+        "distance_meters": 93,
+        "duration_seconds": 79,
+        "path": [
+          {
+            "latitude": 31.221131047748,
+            "longitude": 121.43665192706
+          },
+          {
+            "latitude": 31.221110293334,
+            "longitude": 121.43657210554
+          },
+          {
+            "latitude": 31.221099914041,
+            "longitude": 121.43653219531
+          },
+          {
+            "latitude": 31.221089343431,
+            "longitude": 121.43647233425
+          },
+          {
+            "latitude": 31.220974661162,
+            "longitude": 121.4359934525
+          },
+          {
+            "latitude": 31.220964361374,
+            "longitude": 121.43596352179
+          },
+          {
+            "latitude": 31.220953961087,
+            "longitude": 121.4359236169
+          },
+          {
+            "latitude": 31.220943459282,
+            "longitude": 121.4358737381
+          },
+          {
+            "latitude": 31.220943057813,
+            "longitude": 121.43583384128
+          },
+          {
+            "latitude": 31.220932854688,
+            "longitude": 121.43581388571
+          },
+          {
+            "latitude": 31.220932552186,
+            "longitude": 121.43578396345
+          },
+          {
+            "latitude": 31.220941946775,
+            "longitude": 121.43572412681
+          },
+          {
+            "latitude": 31.220941743668,
+            "longitude": 121.43570417901
+          }
+        ]
+      },
+      "fetched_at": "2026-09-29T08:24:36.152Z",
+      "source_url": "https://map.baidu.com/?qt=inf&uid=319581dfc6078be530870ac9"
+    },
+    {
+      "place_id": "bd-451cbb116145e6e071455b74",
+      "baidu_uid": "451cbb116145e6e071455b74",
+      "name": "列侬説LenEspresso(武夷路店)",
+      "address": "武夷路124号1楼",
+      "location": {
+        "latitude": 31.219807325466256,
+        "longitude": 121.43493638096247,
+        "coordinate_system": "BD-09"
+      },
+      "category": "美食;咖啡厅",
+      "overall_rating": 5,
+      "reference_price": 24,
+      "provider_comment_count": 1,
+      "opening_hours_text": "12:00-18:00",
+      "opening_assessment": "covers_visit",
+      "route": {
+        "status": "available",
+        "distance_meters": 386,
+        "duration_seconds": 330,
+        "path": [
+          {
+            "latitude": 31.221131047748,
+            "longitude": 121.43665192706
+          },
+          {
+            "latitude": 31.221110293334,
+            "longitude": 121.43657210554
+          },
+          {
+            "latitude": 31.221099914041,
+            "longitude": 121.43653219531
+          },
+          {
+            "latitude": 31.221089343431,
+            "longitude": 121.43647233425
+          },
+          {
+            "latitude": 31.220974661162,
+            "longitude": 121.4359934525
+          },
+          {
+            "latitude": 31.220964361374,
+            "longitude": 121.43596352179
+          },
+          {
+            "latitude": 31.220953961087,
+            "longitude": 121.4359236169
+          },
+          {
+            "latitude": 31.220943459282,
+            "longitude": 121.4358737381
+          },
+          {
+            "latitude": 31.220943057813,
+            "longitude": 121.43583384128
+          },
+          {
+            "latitude": 31.220932854688,
+            "longitude": 121.43581388571
+          },
+          {
+            "latitude": 31.220932552186,
+            "longitude": 121.43578396345
+          },
+          {
+            "latitude": 31.220941946775,
+            "longitude": 121.43572412681
+          },
+          {
+            "latitude": 31.220971137955,
+            "longitude": 121.43564435796
+          },
+          {
+            "latitude": 31.221020635552,
+            "longitude": 121.4355945258
+          },
+          {
+            "latitude": 31.221089928613,
+            "longitude": 121.43552476154
+          },
+          {
+            "latitude": 31.221109622501,
+            "longitude": 121.43549485562
+          },
+          {
+            "latitude": 31.221138694035,
+            "longitude": 121.43540511732
+          },
+          {
+            "latitude": 31.22112764639,
+            "longitude": 121.43530537887
+          },
+          {
+            "latitude": 31.221105205771,
+            "longitude": 121.43507599073
+          },
+          {
+            "latitude": 31.221061844646,
+            "longitude": 121.43476682373
+          },
+          {
+            "latitude": 31.221039190505,
+            "longitude": 121.43452749043
+          },
+          {
+            "latitude": 31.221047399474,
+            "longitude": 121.43436795847
+          },
+          {
+            "latitude": 31.220328497342,
+            "longitude": 121.43447711032
+          },
+          {
+            "latitude": 31.22015879938,
+            "longitude": 121.43450689615
+          },
+          {
+            "latitude": 31.219949092555,
+            "longitude": 121.43453665065
+          },
+          {
+            "latitude": 31.219983053492,
+            "longitude": 121.4348956571
+          }
+        ]
+      },
+      "fetched_at": "2026-09-29T08:24:36.152Z",
+      "source_url": "https://map.baidu.com/?qt=inf&uid=451cbb116145e6e071455b74"
+    },
+    {
+      "place_id": "bd-d47f82d9e0a3098cc3364463",
+      "baidu_uid": "d47f82d9e0a3098cc3364463",
+      "name": "咖啡喝伐Hefa Coffee(武夷路店)",
+      "address": "武夷路19号",
+      "location": {
+        "latitude": 31.21982191713963,
+        "longitude": 121.43708674469227,
+        "coordinate_system": "BD-09"
+      },
+      "category": "美食;咖啡厅",
+      "overall_rating": 5,
+      "reference_price": 18.9,
+      "provider_comment_count": 5,
+      "opening_hours_text": "08:00-18:00",
+      "opening_assessment": "covers_visit",
+      "route": {
+        "status": "available",
+        "distance_meters": 632,
+        "duration_seconds": 540,
+        "path": [
+          {
+            "latitude": 31.221131047748,
+            "longitude": 121.43665192706
+          },
+          {
+            "latitude": 31.221110293334,
+            "longitude": 121.43657210554
+          },
+          {
+            "latitude": 31.221099914041,
+            "longitude": 121.43653219531
+          },
+          {
+            "latitude": 31.221089343431,
+            "longitude": 121.43647233425
+          },
+          {
+            "latitude": 31.220974661162,
+            "longitude": 121.4359934525
+          },
+          {
+            "latitude": 31.220964361374,
+            "longitude": 121.43596352179
+          },
+          {
+            "latitude": 31.220953961087,
+            "longitude": 121.4359236169
+          },
+          {
+            "latitude": 31.220943459282,
+            "longitude": 121.4358737381
+          },
+          {
+            "latitude": 31.220943057813,
+            "longitude": 121.43583384128
+          },
+          {
+            "latitude": 31.220932854688,
+            "longitude": 121.43581388571
+          },
+          {
+            "latitude": 31.220932552186,
+            "longitude": 121.43578396345
+          },
+          {
+            "latitude": 31.220941946775,
+            "longitude": 121.43572412681
+          },
+          {
+            "latitude": 31.220971137955,
+            "longitude": 121.43564435796
+          },
+          {
+            "latitude": 31.221020635552,
+            "longitude": 121.4355945258
+          },
+          {
+            "latitude": 31.221089928613,
+            "longitude": 121.43552476154
+          },
+          {
+            "latitude": 31.221109622501,
+            "longitude": 121.43549485562
+          },
+          {
+            "latitude": 31.221138694035,
+            "longitude": 121.43540511732
+          },
+          {
+            "latitude": 31.22112764639,
+            "longitude": 121.43530537887
+          },
+          {
+            "latitude": 31.221105205771,
+            "longitude": 121.43507599073
+          },
+          {
+            "latitude": 31.221061844646,
+            "longitude": 121.43476682373
+          },
+          {
+            "latitude": 31.221039190505,
+            "longitude": 121.43452749043
+          },
+          {
+            "latitude": 31.221047399474,
+            "longitude": 121.43436795847
+          },
+          {
+            "latitude": 31.220328497342,
+            "longitude": 121.43447711032
+          },
+          {
+            "latitude": 31.22015879938,
+            "longitude": 121.43450689615
+          },
+          {
+            "latitude": 31.219949092555,
+            "longitude": 121.43453665065
+          },
+          {
+            "latitude": 31.220015210704,
+            "longitude": 121.43509512707
+          },
+          {
+            "latitude": 31.220025532516,
+            "longitude": 121.43512505249
+          },
+          {
+            "latitude": 31.220058174729,
+            "longitude": 121.43537439778
+          },
+          {
+            "latitude": 31.22005921466,
+            "longitude": 121.43547413052
+          },
+          {
+            "latitude": 31.220060451505,
+            "longitude": 121.43559381266
+          },
+          {
+            "latitude": 31.220032580894,
+            "longitude": 121.4358032411
+          },
+          {
+            "latitude": 31.22001427815,
+            "longitude": 121.43597278869
+          },
+          {
+            "latitude": 31.219976142445,
+            "longitude": 121.43616227707
+          },
+          {
+            "latitude": 31.219918642316,
+            "longitude": 121.43642158575
+          },
+          {
+            "latitude": 31.219880151057,
+            "longitude": 121.43658116537
+          },
+          {
+            "latitude": 31.219773095718,
+            "longitude": 121.43690031852
+          },
+          {
+            "latitude": 31.219733996409,
+            "longitude": 121.43700005418
+          },
+          {
+            "latitude": 31.219685154536,
+            "longitude": 121.43712971539
+          },
+          {
+            "latitude": 31.219655859963,
+            "longitude": 121.43720950936
+          },
+          {
+            "latitude": 31.219795532852,
+            "longitude": 121.43716970866
+          }
+        ]
+      },
+      "fetched_at": "2026-09-29T08:24:36.152Z",
+      "source_url": "https://map.baidu.com/?qt=inf&uid=d47f82d9e0a3098cc3364463"
+    },
+    {
+      "place_id": "bd-9e0f7634828df4d73913fd40",
+      "baidu_uid": "9e0f7634828df4d73913fd40",
+      "name": "库迪咖啡(华敏世纪广场店)",
+      "address": "延安西路638号底层",
+      "location": {
+        "latitude": 31.22247609696742,
+        "longitude": 121.4413530670508,
+        "coordinate_system": "BD-09"
+      },
+      "category": "美食;咖啡厅",
+      "overall_rating": 4.4,
+      "reference_price": 9.9,
+      "provider_comment_count": null,
+      "opening_hours_text": "08:00-18:00",
+      "opening_assessment": "covers_visit",
+      "route": {
+        "status": "available",
+        "distance_meters": 689,
+        "duration_seconds": 588,
+        "path": [
+          {
+            "latitude": 31.221131047748,
+            "longitude": 121.43665192706
+          },
+          {
+            "latitude": 31.221162168911,
+            "longitude": 121.436771662
+          },
+          {
+            "latitude": 31.221203553124,
+            "longitude": 121.43692133698
+          },
+          {
+            "latitude": 31.221244647757,
+            "longitude": 121.4370410863
+          },
+          {
+            "latitude": 31.221265190317,
+            "longitude": 121.43710096217
+          },
+          {
+            "latitude": 31.221355920469,
+            "longitude": 121.43718084315
+          },
+          {
+            "latitude": 31.221406372755,
+            "longitude": 121.43723076491
+          },
+          {
+            "latitude": 31.221427255966,
+            "longitude": 121.4373305531
+          },
+          {
+            "latitude": 31.221458391598,
+            "longitude": 121.43746028398
+          },
+          {
+            "latitude": 31.221479168847,
+            "longitude": 121.43755009936
+          },
+          {
+            "latitude": 31.221531538388,
+            "longitude": 121.43782952817
+          },
+          {
+            "latitude": 31.221562451904,
+            "longitude": 121.43793931601
+          },
+          {
+            "latitude": 31.221583433699,
+            "longitude": 121.43805907876
+          },
+          {
+            "latitude": 31.221593678023,
+            "longitude": 121.43808902349
+          },
+          {
+            "latitude": 31.221614244337,
+            "longitude": 121.43815889298
+          },
+          {
+            "latitude": 31.221634806205,
+            "longitude": 121.43822876359
+          },
+          {
+            "latitude": 31.221685526463,
+            "longitude": 121.43831861594
+          },
+          {
+            "latitude": 31.221716235713,
+            "longitude": 121.43840845609
+          },
+          {
+            "latitude": 31.221766864159,
+            "longitude": 121.43848833187
+          },
+          {
+            "latitude": 31.22179740676,
+            "longitude": 121.43855821475
+          },
+          {
+            "latitude": 31.2218380224,
+            "longitude": 121.43863808624
+          },
+          {
+            "latitude": 31.22186848027,
+            "longitude": 121.43869799081
+          },
+          {
+            "latitude": 31.221898860192,
+            "longitude": 121.43874791537
+          },
+          {
+            "latitude": 31.221929237808,
+            "longitude": 121.43879784049
+          },
+          {
+            "latitude": 31.221979542875,
+            "longitude": 121.43883779893
+          },
+          {
+            "latitude": 31.221261443723,
+            "longitude": 121.43911677018
+          },
+          {
+            "latitude": 31.221032038509,
+            "longitude": 121.43920644036
+          },
+          {
+            "latitude": 31.221002103267,
+            "longitude": 121.43921640048
+          },
+          {
+            "latitude": 31.220942232479,
+            "longitude": 121.43923632069
+          },
+          {
+            "latitude": 31.220901518769,
+            "longitude": 121.43913647295
+          },
+          {
+            "latitude": 31.22087158414,
+            "longitude": 121.43914643276
+          },
+          {
+            "latitude": 31.220851651301,
+            "longitude": 121.43915639988
+          },
+          {
+            "latitude": 31.220821645623,
+            "longitude": 121.43915637789
+          },
+          {
+            "latitude": 31.220791710786,
+            "longitude": 121.43916633766
+          },
+          {
+            "latitude": 31.220761634242,
+            "longitude": 121.43915633381
+          },
+          {
+            "latitude": 31.220812557528,
+            "longitude": 121.43928613575
+          },
+          {
+            "latitude": 31.220853119633,
+            "longitude": 121.43936602259
+          },
+          {
+            "latitude": 31.220873398445,
+            "longitude": 121.43940596657
+          },
+          {
+            "latitude": 31.220893811973,
+            "longitude": 121.43946587591
+          },
+          {
+            "latitude": 31.220864280104,
+            "longitude": 121.43953573222
+          },
+          {
+            "latitude": 31.220935556239,
+            "longitude": 121.43972545888
+          },
+          {
+            "latitude": 31.220845800817,
+            "longitude": 121.43976532586
+          },
+          {
+            "latitude": 31.220916717699,
+            "longitude": 121.43990514488
+          },
+          {
+            "latitude": 31.221037937144,
+            "longitude": 121.44009492472
+          },
+          {
+            "latitude": 31.221108627601,
+            "longitude": 121.4402048014
+          },
+          {
+            "latitude": 31.2211491205,
+            "longitude": 121.44028470558
+          },
+          {
+            "latitude": 31.22119954959,
+            "longitude": 121.44035463376
+          },
+          {
+            "latitude": 31.221471572156,
+            "longitude": 121.44069431992
+          },
+          {
+            "latitude": 31.221592484299,
+            "longitude": 121.4408541761
+          },
+          {
+            "latitude": 31.221792575355,
+            "longitude": 121.44086430229
+          },
+          {
+            "latitude": 31.221842802699,
+            "longitude": 121.44090428102
+          },
+          {
+            "latitude": 31.22220506674,
+            "longitude": 121.44132396371
+          },
+          {
+            "latitude": 31.222335883003,
+            "longitude": 121.44148384814
+          }
+        ]
+      },
+      "fetched_at": "2026-09-29T08:24:36.152Z",
+      "source_url": "https://map.baidu.com/?qt=inf&uid=9e0f7634828df4d73913fd40"
+    },
+    {
+      "place_id": "bd-f72804cdc01a9fd6c9e33c3c",
+      "baidu_uid": "f72804cdc01a9fd6c9e33c3c",
+      "name": "WHITE SPACE留白咖啡(东浜小区店)",
+      "address": "东诸安浜路200号",
+      "location": {
+        "latitude": 31.224670550193252,
+        "longitude": 121.43907137105546,
+        "coordinate_system": "BD-09"
+      },
+      "category": "美食;咖啡厅",
+      "overall_rating": 4.4,
+      "reference_price": 34.8,
+      "provider_comment_count": 4,
+      "opening_hours_text": "07:30-19:00",
+      "opening_assessment": "covers_visit",
+      "route": {
+        "status": "available",
+        "distance_meters": 720,
+        "duration_seconds": 674,
+        "path": [
+          {
+            "latitude": 31.221131047748,
+            "longitude": 121.43665192706
+          },
+          {
+            "latitude": 31.221162168911,
+            "longitude": 121.436771662
+          },
+          {
+            "latitude": 31.221203553124,
+            "longitude": 121.43692133698
+          },
+          {
+            "latitude": 31.221244647757,
+            "longitude": 121.4370410863
+          },
+          {
+            "latitude": 31.221265190317,
+            "longitude": 121.43710096217
+          },
+          {
+            "latitude": 31.221355920469,
+            "longitude": 121.43718084315
+          },
+          {
+            "latitude": 31.221406372755,
+            "longitude": 121.43723076491
+          },
+          {
+            "latitude": 31.221427255966,
+            "longitude": 121.4373305531
+          },
+          {
+            "latitude": 31.221458391598,
+            "longitude": 121.43746028398
+          },
+          {
+            "latitude": 31.221479168847,
+            "longitude": 121.43755009936
+          },
+          {
+            "latitude": 31.221531538388,
+            "longitude": 121.43782952817
+          },
+          {
+            "latitude": 31.221562451904,
+            "longitude": 121.43793931601
+          },
+          {
+            "latitude": 31.221583433699,
+            "longitude": 121.43805907876
+          },
+          {
+            "latitude": 31.221593678023,
+            "longitude": 121.43808902349
+          },
+          {
+            "latitude": 31.221614244337,
+            "longitude": 121.43815889298
+          },
+          {
+            "latitude": 31.221634806205,
+            "longitude": 121.43822876359
+          },
+          {
+            "latitude": 31.221685526463,
+            "longitude": 121.43831861594
+          },
+          {
+            "latitude": 31.221716235713,
+            "longitude": 121.43840845609
+          },
+          {
+            "latitude": 31.221766864159,
+            "longitude": 121.43848833187
+          },
+          {
+            "latitude": 31.22179740676,
+            "longitude": 121.43855821475
+          },
+          {
+            "latitude": 31.2218380224,
+            "longitude": 121.43863808624
+          },
+          {
+            "latitude": 31.22186848027,
+            "longitude": 121.43869799081
+          },
+          {
+            "latitude": 31.221898860192,
+            "longitude": 121.43874791537
+          },
+          {
+            "latitude": 31.221929237808,
+            "longitude": 121.43879784049
+          },
+          {
+            "latitude": 31.221979542875,
+            "longitude": 121.43883779893
+          },
+          {
+            "latitude": 31.22217898455,
+            "longitude": 121.43875808872
+          },
+          {
+            "latitude": 31.222418351531,
+            "longitude": 121.43866842477
+          },
+          {
+            "latitude": 31.222537994089,
+            "longitude": 121.4386186024
+          },
+          {
+            "latitude": 31.222866979274,
+            "longitude": 121.43847909591
+          },
+          {
+            "latitude": 31.222936836598,
+            "longitude": 121.43845918134
+          },
+          {
+            "latitude": 31.223006615941,
+            "longitude": 121.4384292866
+          },
+          {
+            "latitude": 31.223255876874,
+            "longitude": 121.4383296482
+          },
+          {
+            "latitude": 31.223465200925,
+            "longitude": 121.438239964
+          },
+          {
+            "latitude": 31.223515050192,
+            "longitude": 121.43822003628
+          },
+          {
+            "latitude": 31.223614827396,
+            "longitude": 121.43819016029
+          },
+          {
+            "latitude": 31.223654674068,
+            "longitude": 121.43817022627
+          },
+          {
+            "latitude": 31.224103209469,
+            "longitude": 121.43798089672
+          },
+          {
+            "latitude": 31.224262660211,
+            "longitude": 121.43791114022
+          },
+          {
+            "latitude": 31.224323325151,
+            "longitude": 121.43799100741
+          },
+          {
+            "latitude": 31.224355341561,
+            "longitude": 121.43824050818
+          },
+          {
+            "latitude": 31.224398220893,
+            "longitude": 121.43860979344
+          },
+          {
+            "latitude": 31.22444987753,
+            "longitude": 121.43882939914
+          },
+          {
+            "latitude": 31.224470688383,
+            "longitude": 121.43893920331
+          },
+          {
+            "latitude": 31.224481125822,
+            "longitude": 121.43899909716
+          },
+          {
+            "latitude": 31.224501776499,
+            "longitude": 121.43908894246
+          },
+          {
+            "latitude": 31.224553335594,
+            "longitude": 121.43930857301
+          },
+          {
+            "latitude": 31.224594713051,
+            "longitude": 121.43950824392
+          },
+          {
+            "latitude": 31.224634651381,
+            "longitude": 121.43949828458
+          },
+          {
+            "latitude": 31.224804268675,
+            "longitude": 121.43943848755
+          },
+          {
+            "latitude": 31.224691518188,
+            "longitude": 121.43904912684
+          }
+        ]
+      },
+      "fetched_at": "2026-09-29T08:24:36.152Z",
+      "source_url": "https://map.baidu.com/?qt=inf&uid=f72804cdc01a9fd6c9e33c3c"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Cafe OnAir昂云咖啡(利西店)",
+      "reviews": [
+        {
+          "date": "2023-02-16",
+          "source": "来自百度地图",
+          "text": "位于利西路上的cafeonair，工业风格，适合学习，工作，开会。咖啡和甜点一如既往的好吃，推荐燕麦蛋糕。"
+        }
+      ],
+      "totalLabel": "用户评论(2条)",
+      "uid": "9a0e2426a74c7167eedfca72"
+    },
+    {
+      "name": "Cafe OnAir昂云咖啡(斜土店)",
+      "reviews": [
+        {
+          "date": "2024-02-23",
+          "source": "来自百度地图",
+          "text": "几点开始营业"
+        }
+      ],
+      "totalLabel": "用户评论(4条)",
+      "uid": "954bd509a413dd199c82ea5c"
+    }
+  ]
+}
